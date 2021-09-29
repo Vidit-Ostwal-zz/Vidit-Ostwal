@@ -1,4 +1,9 @@
-### Hi there 👋
+
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/65944284/135332547-ff38d8ec-113d-47ae-b426-e5a023f5b907.gif)
+
+
+
 
 <!--
 **Vidit-Ostwal/Vidit-Ostwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
