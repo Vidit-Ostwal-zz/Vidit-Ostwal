@@ -42,6 +42,7 @@
   
 [![Vidit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vidit-Ostwal&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
+  <br>
   
 ### :zap: Recent Activity
 
@@ -57,7 +58,6 @@
   
   
   <h2>
-    
 <p align="center"> ⚡ Interesting fact: A lion in the wild, usually makes no more than 20 kills a year.  
 </h2>
 
