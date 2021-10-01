@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently studying at [**Birla Institute of Technology and Science (Pilani)**](https://www.bits-pilani.ac.in/)<p> </p>
 - 🌱 I’m currently contributing to [**Girlscript Winter of Contributing**](https://github.com/girlscript/winter-of-contributing) and [**HacktoberFest**](https://hacktoberfest.digitalocean.com/register)<p> </p>
+- 🔭 Currently learning Azure <p> </p> 
 - 📫 Want to reach me? **viditostwal@gmail.com** <p> </p>
 
 <br>
