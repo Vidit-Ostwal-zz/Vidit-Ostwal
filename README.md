@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/TLE-MEC/Hack-CP-DSA/issues/38) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
+1. 🗣 Commented on [#2314](https://github.com/girlscript/winter-of-contributing/issues/2314) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 2. 🗣 Commented on [#38](https://github.com/TLE-MEC/Hack-CP-DSA/issues/38) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
-3. 💪 Opened PR [#38](https://github.com/TLE-MEC/Hack-CP-DSA/pull/38) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
-4. 💪 Opened PR [#26](https://github.com/TLE-MEC/Hack-CP-DSA/pull/26) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
-5. ❌ Closed PR [#1948](https://github.com/girlscript/winter-of-contributing/pull/1948) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#38](https://github.com/TLE-MEC/Hack-CP-DSA/issues/38) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
+4. 💪 Opened PR [#38](https://github.com/TLE-MEC/Hack-CP-DSA/pull/38) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
+5. 💪 Opened PR [#26](https://github.com/TLE-MEC/Hack-CP-DSA/pull/26) in [TLE-MEC/Hack-CP-DSA](https://github.com/TLE-MEC/Hack-CP-DSA)
 <!--END_SECTION:activity-->
 
 ---
