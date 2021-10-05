@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/246) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-2. 🗣 Commented on [#2314](https://github.com/girlscript/winter-of-contributing/issues/2314) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#618](https://github.com/TLE-MEC/Hack-CP/issues/618) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
-4. 💪 Opened PR [#618](https://github.com/TLE-MEC/Hack-CP/pull/618) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
-5. 🗣 Commented on [#2314](https://github.com/girlscript/winter-of-contributing/issues/2314) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#16](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/16) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+2. 💪 Opened PR [#246](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/246) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+3. 🗣 Commented on [#2314](https://github.com/girlscript/winter-of-contributing/issues/2314) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#618](https://github.com/TLE-MEC/Hack-CP/issues/618) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
+5. 💪 Opened PR [#618](https://github.com/TLE-MEC/Hack-CP/pull/618) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
 <!--END_SECTION:activity-->
 
 ---
