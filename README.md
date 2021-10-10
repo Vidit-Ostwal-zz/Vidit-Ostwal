@@ -48,10 +48,10 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
-2. 💪 Opened PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
-3. 💪 Opened PR [#40](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/40) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
-4. 🗣 Commented on [#4922](https://github.com/girlscript/winter-of-contributing/issues/4922) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+2. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
+3. 💪 Opened PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
+4. 💪 Opened PR [#40](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/40) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
 5. 🗣 Commented on [#4922](https://github.com/girlscript/winter-of-contributing/issues/4922) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 
