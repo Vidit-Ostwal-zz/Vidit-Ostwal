@@ -34,10 +34,10 @@
 
 
 <br> 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vidit-Ostwal&show_icons=true&count_private=true&theme=cobalt" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vidit-Ostwal&show_icons=true&count_private=true&theme=radical" />
 <br> 
 <br>
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vidit-Ostwal&theme=cobalt" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vidit-Ostwal&theme=radical" />
 <br>
 <br>
   
