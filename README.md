@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/issues/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
-2. 💪 Opened PR [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
-3. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
-4. 💪 Opened PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
-5. 💪 Opened PR [#40](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/40) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+1. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
+2. 🗣 Commented on [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/issues/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+3. 💪 Opened PR [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/pull/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+4. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
+5. 💪 Opened PR [#1](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy/pull/1) in [Vidit-Ostwal/hacktoberfest2021-easy](https://github.com/Vidit-Ostwal/hacktoberfest2021-easy)
 <!--END_SECTION:activity-->
 
 ---
