@@ -52,7 +52,7 @@
 2. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
 3. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
 4. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
-5. 🗣 Commented on [#47](https://github.com/shamilthomas8/hacktoberfest2021-easy/issues/47) in [shamilthomas8/hacktoberfest2021-easy](https://github.com/shamilthomas8/hacktoberfest2021-easy)
+5. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
 <!--END_SECTION:activity-->
 
 ---
