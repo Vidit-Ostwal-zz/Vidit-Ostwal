@@ -13,6 +13,13 @@
 - 🔭 Currently learning Azure <p> </p> 
 - 📫 Want to reach me? **viditostwal@gmail.com** <p> </p>
 
+<h1><b> Open-Source Program I am/had contributed </b></h1>
+
+- [GirlScrip Winter of Contributing](https://github.com/winter-of-contributing) 
+
+- [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
+
+
 <br>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">  
