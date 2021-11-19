@@ -12,6 +12,8 @@
 - 🌱 I’m currently contributing to [**Jina AI**](https://github.com/jina-ai/jina)<p> </p>
 - 🔭 Currently learning Azure <p> </p> 
 - 📫 Want to reach me? **viditostwal@gmail.com** <p> </p>
+<br>
+
 
 <h1><b> Open-Source Program I am/had contributed </b></h1>
 
