@@ -19,7 +19,11 @@
 
 - [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
 
+<hr>
 
+<h1><b> Hackathon I have participated recently </b></h1>
+
+- Machine Learning for Science [ML4SCI](https://github.com/ML4SCI/ML4SCIHackathon)
 <br>
 <h2 align="center"><b>Connect with me:</b></h2>
 <p align="center">  
