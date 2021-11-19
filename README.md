@@ -21,15 +21,14 @@
 
 
 <br>
-<h3 align="center"><b>Connect with me:</b></h3>
+<h2 align="center"><b>Connect with me:</b></h2>
 <p align="center">  
 <a href="https://www.linkedin.com/in/vidit-ostwal-35022019b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/vidit.ostwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/viditostwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
-<hr>
-<h3 align="center"><b> 🛠 Tech Stack:</b></h3>
+<h2 align="center"><b> 🛠 Tech Stack:</b></h2>
 
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a>&nbsp;
