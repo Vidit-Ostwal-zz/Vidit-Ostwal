@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidit-Ostwal&label=Profile%20views&color=0e75b6&style=flat" alt="Vidit-Ostwal" /> </p>
 
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/65944284/135332547-ff38d8ec-113d-47ae-b426-e5a023f5b907.gif)
