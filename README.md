@@ -58,10 +58,10 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/SongRecommender/pull/1) in [Vidit-Ostwal/SongRecommender](https://github.com/Vidit-Ostwal/SongRecommender)
-2. 🗣 Commented on [#222](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/222) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 💪 Opened PR [#222](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/222) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. 🗣 Commented on [#219](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/219) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❌ Closed PR [#246](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/246) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+2. ❌ Closed PR [#2074](https://github.com/keshavsingh4522/hacktoberfest2021/pull/2074) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+3. ❗️ Closed issue [#1195](https://github.com/girlscript/winter-of-contributing/issues/1195) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/SongRecommender/pull/1) in [Vidit-Ostwal/SongRecommender](https://github.com/Vidit-Ostwal/SongRecommender)
 5. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
 <!--END_SECTION:activity-->
 
