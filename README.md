@@ -19,6 +19,8 @@
 
 - [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
 
+- [Winter of Code GDSC IIIT Kalyani](https://gdsc-woc.tech/)
+
 <hr>
 
 <h1><b> Hackathon I have participated recently </b></h1>
