@@ -15,7 +15,7 @@
 
 <h1><b> Open-Source Program I am/had contributed </b></h1>
 
-- [GirlScrip Winter of Contributing](https://github.com/winter-of-contributing) 
+- [GirlScrip Winter of Contributing](https://drive.google.com/file/d/1wAXYHT7ziRPnhnD9-E1bFDzmKfnKfDAP/view?usp=sharing) 
 
 - [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
 
