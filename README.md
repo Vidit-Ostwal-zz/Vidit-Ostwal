@@ -15,11 +15,13 @@
 
 <h1><b> Open-Source Program I am/had contributed </b></h1>
 
-- [GirlScrip Winter of Contributing](https://drive.google.com/file/d/1wAXYHT7ziRPnhnD9-E1bFDzmKfnKfDAP/view?usp=sharing) 
+- [GirlScrip Winter of Contributing](https://github.com/girlscript/winter-of-contributing)
+[Participation Certificate](https://drive.google.com/file/d/1wAXYHT7ziRPnhnD9-E1bFDzmKfnKfDAP/view?usp=sharing) 
 
 - [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
 
-- [Winter of Code GDSC IIIT Kalyani](https://drive.google.com/file/d/15E9zhjJHeeYe-CiySG3f1xNklUevN4m_/view?usp=sharing)
+- [Winter of Code GDSC IIIT Kalyani](https://gdsc-woc.tech/)<br>
+[Acceptance Mail](https://drive.google.com/file/d/15E9zhjJHeeYe-CiySG3f1xNklUevN4m_/view?usp=sharing)
 
 <hr>
 
