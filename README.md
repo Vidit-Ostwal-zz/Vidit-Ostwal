@@ -19,7 +19,7 @@
 
 - [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/)
 
-- [Winter of Code GDSC IIIT Kalyani](https://gdsc-woc.tech/)
+- [Winter of Code GDSC IIIT Kalyani](https://drive.google.com/file/d/15E9zhjJHeeYe-CiySG3f1xNklUevN4m_/view?usp=sharing)
 
 <hr>
 
