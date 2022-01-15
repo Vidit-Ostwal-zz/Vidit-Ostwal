@@ -55,7 +55,7 @@
 <br>
 <br>
   
-[![Vidit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vidit-Ostwal&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vidit Ostwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vidit-Ostwal&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
   <br>
   
