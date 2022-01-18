@@ -62,8 +62,8 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
-2. ❌ Closed PR [#2074](https://github.com/keshavsingh4522/hacktoberfest2021/pull/2074) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+1. 🗣 Commented on [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
+2. ❗️ Opened issue [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
 3. ❗️ Closed issue [#1195](https://github.com/girlscript/winter-of-contributing/issues/1195) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 4. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/SongRecommender/pull/1) in [Vidit-Ostwal/SongRecommender](https://github.com/Vidit-Ostwal/SongRecommender)
 5. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
