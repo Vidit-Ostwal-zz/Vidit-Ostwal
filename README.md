@@ -73,6 +73,6 @@
   
   
   <h2>
-<p align="center"> ⚡ Always Getting Better ⚡ .  
+<p align="center"> ⚡ Always Getting Better ⚡
 </h2>
 
