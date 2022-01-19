@@ -73,6 +73,6 @@
   
   
   <h2>
-<p align="center"> ⚡ Interesting fact: A lion in the wild, usually makes no more than 20 kills a year.  
+<p align="center"> ⚡ Always Getting Better ⚡ .  
 </h2>
 
