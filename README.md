@@ -64,8 +64,8 @@
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
 2. 🗣 Commented on [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
-3. ❗️ Opened issue [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
-4. 🎉 Merged PR [#1](https://github.com/Vidit-Ostwal/SongRecommender/pull/1) in [Vidit-Ostwal/SongRecommender](https://github.com/Vidit-Ostwal/SongRecommender)
+3. 🗣 Commented on [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
+4. ❗️ Opened issue [#4179](https://github.com/jina-ai/jina/issues/4179) in [jina-ai/jina](https://github.com/jina-ai/jina)
 5. 🗣 Commented on [#3649](https://github.com/jina-ai/jina/issues/3649) in [jina-ai/jina](https://github.com/jina-ai/jina)
 <!--END_SECTION:activity-->
 
