@@ -62,7 +62,7 @@
 ### :zap: Recent Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4206](https://github.com/jina-ai/jina/issues/4206) in [jina-ai/jina](https://github.com/jina-ai/jina)
+1. ❗️ Closed issue [#4206](https://github.com/jina-ai/jina/issues/4206) in [jina-ai/jina](https://github.com/jina-ai/jina)
 2. 🗣 Commented on [#4206](https://github.com/jina-ai/jina/issues/4206) in [jina-ai/jina](https://github.com/jina-ai/jina)
 3. 🗣 Commented on [#4206](https://github.com/jina-ai/jina/issues/4206) in [jina-ai/jina](https://github.com/jina-ai/jina)
 4. 🗣 Commented on [#4206](https://github.com/jina-ai/jina/issues/4206) in [jina-ai/jina](https://github.com/jina-ai/jina)
