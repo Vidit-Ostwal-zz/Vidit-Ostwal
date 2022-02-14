@@ -34,6 +34,7 @@
 <a href="https://www.linkedin.com/in/vidit-ostwal-35022019b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/vidit.ostwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/viditostwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://bio.link/viditostwal" target="blank"><img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/152755aa3eb5060b3fe98699f8ade778.png" alt="Vidit-Ostwal" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center"><b> 🛠 Tech Stack:</b></h2>
